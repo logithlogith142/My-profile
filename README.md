@@ -1,7 +1,7 @@
 
 <img align="center" width="1000"  src="https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966">
 
-<h1 align="center">Hi 👋, I'm LOGITH</h1>
+<h1 align="center">Hi Techies👋, I'm LOGITH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logithlogith142&label=Profile%20views&color=0e75b6&style=flat" alt="logithlogith142" /> </p>
