@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,Tailwindcss,React**
 
-- 💬 Ask me about **frontend developer**
+- 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **logithlogith142@gmail.com**
 
